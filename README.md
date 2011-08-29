@@ -13,7 +13,7 @@ For example:
 
     % ./lcsh-subset.py "government policy"
 
-dumps all the SKOS RDF for concepts mentioning beer to the file:
+dumps all the SKOS RDF for concepts mentioning government policy to the file:
 
     government_policy.rdf
 
